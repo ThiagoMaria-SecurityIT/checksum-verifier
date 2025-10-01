@@ -44,7 +44,7 @@ Checksum verification is a method to confirm that a file hasn't been tampered wi
 
 1. **Start the application**:
    ```bash
-   cd src
+   cd checksum-verifier
    python main.py
    ```
 
@@ -122,4 +122,22 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Understanding checksums](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/)
 - [Python hashlib documentation](https://docs.python.org/3/library/hashlib.html)
 - [Tkinter GUI guide](https://docs.python.org/3/library/tkinter.html)
+
+## 🤖 AI Transparency & Development Process
+
+### Development Approach:
+- **AI-Assisted Generation**: The initial code structure and implementation were generated with AI assistance
+- **Human Oversight**: All generated code was reviewed, tested, and refined by a human developer
+- **Educational Design**: The project was structured specifically for learning purposes
+- **Quality Assurance**: The application has been tested to ensure it works as intended
+
+### Why AI Transparency Matters:
+We believe in being transparent about how software is created. While AI assisted in generating the initial code, human judgment was essential for:
+- Code review and validation
+- Testing and bug fixes
+- Documentation and educational content
+- Project structure decisions
+
+### Verification:
+This checksum verifier has been tested with real-world files and checksums to confirm it produces accurate results.
 
