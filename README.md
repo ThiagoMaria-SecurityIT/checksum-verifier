@@ -1,4 +1,10 @@
-# SHA256 Checksum Verifier
+# SHA256 Checksum Verifier  
+
+![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
+![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+![Made with AI Assistance](https://img.shields.io/badge/made_with-AI_assistance-8A2BE2)
 
 A simple Python application with graphical interface to verify file integrity using SHA256 checksums. This tool helps ensure your downloaded files are authentic and not corrupted.  
 
